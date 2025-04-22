@@ -1,5 +1,11 @@
 Datastructure and Algorithms:
+	Logic buildings
+	Complexity analysis
+Datastructure:
+	It is used to store the data
 
+Algorithms:
+	It is the process of data
 
 
 
