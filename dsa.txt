@@ -9,6 +9,15 @@ Datastructure:
 
 Algorithms:
 	It is the process of data
+	Searching Algorithms:
+		1. Linear Algorithms : 
+			* It is unsorted array.
+			* Which will check one by one.
+		2. Binary Search Algorithms:
+			* It should be sorted array.
+			* It will search in middle then it will check whether is it present in left or right half based on the first condition result.
+			
+
 
 
 
@@ -19,3 +28,4 @@ Algorithms:
 Everyday:
 	22-04-2025: Starting the dsa documentation and Repo
 	26-04-2025: Start with Complexity
+	19-05-2025: Searching algorithms
