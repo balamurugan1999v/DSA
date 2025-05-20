@@ -16,8 +16,15 @@ Algorithms:
 		2. Binary Search Algorithms:
 			* It should be sorted array.
 			* It will search in middle then it will check whether is it present in left or right half based on the first condition result.
-			
-
+			in java we can use inbuilt functions to search
+			Arrays.binarySearch(array, item); --> Which will return the index.
+			Collections.binarySearch(list, item); --> it is used for list and this also returns the index;
+		In application if we used to check whether the data present or not then we will use contains keyword, to expplicitly search algo not required 
+	Sorting Algorithms:
+		Sorting algorithms is to re arrange the given elements in the array.
+		Which is having different types of algorithms those are merge sort, insertion sort, bubble sort, Quick sort, selection sort, Tim sort.
+		
+		Merge sort is used as divide and conquer
 
 
 
@@ -29,3 +36,4 @@ Everyday:
 	22-04-2025: Starting the dsa documentation and Repo
 	26-04-2025: Start with Complexity
 	19-05-2025: Searching algorithms
+	20-05-2025: Sorting algorithms
