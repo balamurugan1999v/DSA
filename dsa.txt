@@ -6,6 +6,13 @@ Datastructure and Algorithms:
 		Space Complexity
 Datastructure:
 	It is used to store the data
+	
+	Tree:
+		Tree is one of the DS, which will contains a Binary tree.
+		Binary tree is having multiple types,
+			1. Strict Binary tree - Which will have either 0 leaf node or 2 leaf node
+			2. Complete Binary tree - Which will have only two levels of leaves
+			3. Full Binary Trees - Which will have all the last leaf on the same level. All the node's will have exactly two child node except last layer.
 
 Algorithms:
 	It is the process of data
